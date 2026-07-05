@@ -1,0 +1,149 @@
+customer_id,campaign_name,segment_label,rfm_segment,churn_risk_score,propensity_score,clv_tier,recommended_offer,recommended_channel,priority_score,estimated_response_rate,retention_budget
+0303-WMMRN,bundle_upsell,High Value Active,Champions,0.010964803397655487,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+1023-BQXZE,bundle_upsell,Price Sensitive,Hibernating,0.0038224367890506983,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+0750-EKNGL,bundle_upsell,Price Sensitive,Loyal Customers,0.0063780443742871284,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+0840-DCNZE,bundle_upsell,Price Sensitive,Loyal Customers,0.005988067947328091,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+5802-ADBRC,bundle_upsell,Price Sensitive,Loyal Customers,0.001854450791142881,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+3308-JSGML,bundle_upsell,High Value Active,Champions,0.002037042286247015,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+4570-QHXHL,bundle_upsell,High Value Active,Champions,0.0018035732209682465,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+4633-MKHYU,bundle_upsell,High Value Active,Champions,0.0038134611677378416,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+5275-PMFUT,bundle_upsell,High Value Active,Champions,0.002058291109278798,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+4660-IRIBM,bundle_upsell,Price Sensitive,Loyal Customers,0.007922609336674213,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+2985-FMWYF,bundle_upsell,High Value Active,Loyal Customers,0.002755100606009364,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+2876-GZYZC,bundle_upsell,Price Sensitive,Champions,0.007134765852242708,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+2277-AXSDC,bundle_upsell,High Value Active,Champions,0.008525664918124676,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+2842-BCQGE,bundle_upsell,High Value Active,Loyal Customers,0.0032250031363219023,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+1982-FEBTD,bundle_upsell,High Value Active,Loyal Customers,0.0022519994527101517,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+2135-DQWAQ,bundle_upsell,Price Sensitive,Hibernating,0.16980409622192383,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+2049-BAFNW,bundle_upsell,High Value Active,Loyal Customers,0.0038351677358150482,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+1635-FJFCC,bundle_upsell,High Value Active,Loyal Customers,0.0038218919653445482,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+1429-UYJSV,bundle_upsell,High Value Active,Loyal Customers,0.0046828556805849075,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+1345-GKDZZ,bundle_upsell,High Value Active,Champions,0.0030662447679787874,1.0,Platinum,5GB Monthly Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+8028-PNXHQ,bundle_upsell,High Value Active,Loyal Customers,0.002065541921183467,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+8212-DJRCH,bundle_upsell,High Value Active,Champions,0.003059695241972804,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+8573-CGOCC,bundle_upsell,Price Sensitive,Hibernating,0.018399778753519058,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+7243-LCGGZ,bundle_upsell,Price Sensitive,Loyal Customers,0.00428055552765727,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+9617-INGJY,bundle_upsell,High Value Active,Champions,0.008495575748383999,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+9699-UBQFS,bundle_upsell,High Value Active,Loyal Customers,0.0020209806971251965,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+9442-JTWDL,bundle_upsell,Price Sensitive,Loyal Customers,0.007428593933582306,1.0,Platinum,5GB Monthly Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+9402-CXWPL,bundle_upsell,Price Sensitive,Loyal Customers,0.003160130465403199,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+6408-WHTEF,bundle_upsell,Price Sensitive,Loyal Customers,0.003238788340240717,1.0,Platinum,1GB Daily Bundle,USSD,1.0,0.35,Premium
+7426-RHZGU,bundle_upsell,High Value Active,Champions,0.003552505746483803,1.0,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,1.0,0.35,Premium
+7267-FRMJW,bundle_upsell,Price Sensitive,Hibernating,0.0031062208581715822,1.0,Platinum,5GB Monthly Bundle,USSD,1.0,0.35,Premium
+9418-RUKPH,bundle_upsell,Price Sensitive,Loyal Customers,0.0035232945811003447,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+7274-CGTOD,bundle_upsell,Price Sensitive,Champions,0.0023290463723242283,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+6685-GBWJZ,bundle_upsell,Price Sensitive,Champions,0.002757201436907053,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+0487-CRLZF,bundle_upsell,Price Sensitive,Loyal Customers,0.00250339787453413,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+0851-DFJKB,bundle_upsell,High Value Active,Loyal Customers,0.003563494188711047,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+5553-AOINX,bundle_upsell,Price Sensitive,Loyal Customers,0.010815739631652832,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+5626-MGTUK,bundle_upsell,Price Sensitive,Loyal Customers,0.07078354805707932,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+5322-TEUJK,bundle_upsell,Price Sensitive,Champions,0.0027217345777899027,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+6504-VBLFL,bundle_upsell,Price Sensitive,Champions,0.002124149352312088,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+5117-ZSMHQ,bundle_upsell,Price Sensitive,Loyal Customers,0.003443180350586772,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+5155-AZQPB,bundle_upsell,Price Sensitive,Champions,0.0019168048165738583,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+6243-OZGFH,bundle_upsell,High Value Active,Champions,0.0022338596172630787,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+6248-TKCQV,bundle_upsell,Price Sensitive,Loyal Customers,0.002830519573763013,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+8208-EUMTE,bundle_upsell,High Value Active,Champions,0.002187966136261821,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+9501-UKKNL,bundle_upsell,Price Sensitive,Loyal Customers,0.0029452566523104906,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+9552-TGUZV,bundle_upsell,Price Sensitive,Champions,0.0035782328341156244,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+2475-MROZF,bundle_upsell,High Value Active,Loyal Customers,0.0022833787370473146,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+3774-VBNXY,bundle_upsell,Price Sensitive,Champions,0.0031067023519426584,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+4342-HFXWS,bundle_upsell,High Value Active,Loyal Customers,0.003394143655896187,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+3307-TLCUD,bundle_upsell,High Value Active,Champions,0.0031526018865406513,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+1568-LJSZU,bundle_upsell,Price Sensitive,Champions,0.0021712016314268112,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+1436-ZMJAN,bundle_upsell,Price Sensitive,Champions,0.003288420382887125,1.0,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+1932-UEDCX,bundle_upsell,Price Sensitive,Champions,0.0024287966080009937,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+1379-FRVEB,bundle_upsell,Price Sensitive,Loyal Customers,0.07185880094766617,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+4389-UEFCZ,bundle_upsell,Price Sensitive,Loyal Customers,0.01523012388497591,1.0,Gold,1GB Daily Bundle,USSD,0.9249999999999999,0.35,Standard
+5063-IUOKK,bundle_upsell,High Value Active,Champions,0.0032031089067459106,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+7608-RGIRO,bundle_upsell,Price Sensitive,Loyal Customers,0.003069785889238119,1.0,Gold,5GB Monthly Bundle,USSD,0.9249999999999999,0.35,Standard
+6568-POCUI,bundle_upsell,Price Sensitive,Hibernating,0.010389456525444984,1.0,Gold,5GB Monthly Bundle,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+0945-TSONX,bundle_upsell,Price Sensitive,Champions,0.0025743257720023394,0.855,Platinum,1GB Daily Bundle,PUSH_NOTIFICATION,0.8984999999999999,0.35,Premium
+4501-UYKBC,bundle_upsell,Price Sensitive,Loyal Customers,0.0028825292829424143,0.845,Platinum,1GB Daily Bundle,USSD,0.8915,0.35,Premium
+0621-TSSMU,bundle_upsell,Price Sensitive,Champions,0.0023476567585021257,0.95,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.8899999999999999,0.35,Standard
+9473-CBZOP,bundle_upsell,Price Sensitive,Loyal Customers,0.002750772750005126,0.95,Gold,5GB Monthly Bundle,USSD,0.8899999999999999,0.35,Standard
+0459-SPZHJ,bundle_upsell,Price Sensitive,Champions,0.0024024187587201595,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+0310-SUCIN,bundle_upsell,Price Sensitive,Champions,0.00234102550894022,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+0228-MAUWC,bundle_upsell,Price Sensitive,Hibernating,0.004224254284054041,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+0248-IPDFW,bundle_upsell,Price Sensitive,Hibernating,0.3016732335090637,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+7137-NAXML,bundle_upsell,Price Sensitive,Champions,0.01694018580019474,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+9253-VIFJQ,bundle_upsell,Price Sensitive,Loyal Customers,0.008324363268911839,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+9909-DFRJA,bundle_upsell,Price Sensitive,At Risk,0.0031158332712948322,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+8883-GRDWQ,bundle_upsell,Price Sensitive,Loyal Customers,0.002683100523427129,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+8735-SDUFN,bundle_upsell,Price Sensitive,Lost Customers,0.015846967697143555,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+8430-TWCBX,bundle_upsell,Price Sensitive,Lost Customers,0.023491468280553818,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+6479-VDGRK,bundle_upsell,Price Sensitive,Lost Customers,0.006014207378029823,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+6388-TABGU,bundle_upsell,Price Sensitive,Loyal Customers,0.002298945328220725,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+3642-BYHDO,bundle_upsell,Price Sensitive,Hibernating,0.006192946340888739,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+3131-NWVFJ,bundle_upsell,Price Sensitive,Loyal Customers,0.0022788436617702246,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+5294-IMHHT,bundle_upsell,Price Sensitive,Hibernating,0.007400176487863064,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+5243-SAOTC,bundle_upsell,High Value Active,Loyal Customers,0.0034684811253100634,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+4282-ACRXS,bundle_upsell,Price Sensitive,Loyal Customers,0.01316295936703682,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+3026-ATZYV,bundle_upsell,High Value Active,Champions,0.0032963287085294724,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+3050-GBUSH,bundle_upsell,Price Sensitive,Loyal Customers,0.004238227382302284,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+2911-WDXMV,bundle_upsell,Price Sensitive,Champions,0.003260696306824684,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+1845-ZLLIG,bundle_upsell,Price Sensitive,Loyal Customers,0.005057267379015684,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+3186-AJIEK,bundle_upsell,Price Sensitive,Loyal Customers,0.016337377950549126,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+3118-UHVVQ,bundle_upsell,Price Sensitive,Hibernating,0.0029138929676264524,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+3452-ABWRL,bundle_upsell,Price Sensitive,Champions,0.0024846510495990515,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+1877-HKBQX,bundle_upsell,Price Sensitive,Loyal Customers,0.0027722229715436697,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+1552-TKMXS,bundle_upsell,Price Sensitive,Champions,0.002405255800113082,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+2988-QRAJY,bundle_upsell,Price Sensitive,Champions,0.002201313152909279,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+2589-AYCRP,bundle_upsell,Price Sensitive,Champions,0.0019920715130865574,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+2229-DPMBI,bundle_upsell,Price Sensitive,Lost Customers,0.05734698474407196,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+6137-MFAJN,bundle_upsell,Price Sensitive,Loyal Customers,0.0022274355869740248,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+5647-URDKA,bundle_upsell,Price Sensitive,Loyal Customers,0.003941235598176718,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+5827-MWCZK,bundle_upsell,Price Sensitive,Loyal Customers,0.004226248245686293,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+5862-BRIXZ,bundle_upsell,Price Sensitive,Loyal Customers,0.0045106983743608,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+6080-LNESI,bundle_upsell,Price Sensitive,Loyal Customers,0.005537740420550108,1.0,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+8109-YUOHE,bundle_upsell,Price Sensitive,Loyal Customers,0.003101360984146595,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+8003-EWNDZ,bundle_upsell,Price Sensitive,Loyal Customers,0.038545724004507065,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+7874-ECPQJ,bundle_upsell,Price Sensitive,Loyal Customers,0.00296637206338346,1.0,Silver,1GB Daily Bundle,USSD,0.85,0.35,Basic
+7129-AZJDE,bundle_upsell,Price Sensitive,Loyal Customers,0.0376327782869339,1.0,Silver,5GB Monthly Bundle,SMS,0.85,0.35,Basic
+6695-FRVEC,bundle_upsell,Price Sensitive,Champions,0.0022792546078562737,1.0,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.85,0.35,Basic
+5433-KYGHE,bundle_upsell,Price Sensitive,Hibernating,0.19629308581352234,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+5981-ZVXOT,bundle_upsell,Price Sensitive,Loyal Customers,0.12020576000213623,1.0,Silver,1GB Daily Bundle,SMS,0.85,0.35,Basic
+5311-IHLEI,bundle_upsell,Price Sensitive,Loyal Customers,0.004779511597007513,1.0,Silver,5GB Monthly Bundle,USSD,0.85,0.35,Basic
+5567-GZKQY,bundle_upsell,High Value Active,Loyal Customers,0.0022033583372831345,0.885,Gold,5GB Monthly Bundle,USSD,0.8444999999999999,0.35,Standard
+1051-GEJLJ,bundle_upsell,Price Sensitive,Loyal Customers,0.0030454236548393965,0.955,Silver,1GB Daily Bundle,USSD,0.8185,0.35,Basic
+1320-REHCS,bundle_upsell,Price Sensitive,Champions,0.002910774666815996,0.845,Gold,1GB Daily Bundle,USSD,0.8164999999999999,0.35,Standard
+2460-NGXBJ,bundle_upsell,Price Sensitive,Loyal Customers,0.004279283341020346,0.95,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.815,0.35,Basic
+5027-YOCXN,bundle_upsell,Price Sensitive,Champions,0.0030296507757157087,0.945,Silver,5GB Monthly Bundle,USSD,0.8115,0.35,Basic
+1337-BOZWO,bundle_upsell,Price Sensitive,Loyal Customers,0.006167279090732336,0.925,Silver,1GB Daily Bundle,USSD,0.7975,0.35,Basic
+2017-CCBLH,bundle_upsell,Price Sensitive,Hibernating,0.0051393355242908,0.905,Silver,1GB Daily Bundle,USSD,0.7835,0.35,Basic
+7816-VGHTO,bundle_upsell,Price Sensitive,Loyal Customers,0.002187864389270544,0.895,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7765,0.35,Basic
+0052-DCKON,bundle_upsell,Price Sensitive,Loyal Customers,0.0041570705361664295,1.0,Bronze,1GB Daily Bundle,USSD,0.7749999999999999,0.35,Minimal
+1156-ZFYDO,bundle_upsell,Price Sensitive,Hibernating,0.09657125174999237,1.0,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9129-UXERG,bundle_upsell,Price Sensitive,At Risk,0.01867079548537731,1.0,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9629-NHXFW,bundle_upsell,Price Sensitive,Champions,0.0044684396125376225,1.0,Bronze,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9560-BBZXK,bundle_upsell,Price Sensitive,Loyal Customers,0.0022540080826729536,1.0,Bronze,5GB Monthly Bundle,USSD,0.7749999999999999,0.35,Minimal
+4644-OBGFZ,bundle_upsell,Price Sensitive,Loyal Customers,0.0028058630414307117,1.0,Bronze,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1763-WQFUK,bundle_upsell,Price Sensitive,Loyal Customers,0.00697936350479722,1.0,Bronze,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9860-LISIZ,bundle_upsell,Price Sensitive,Loyal Customers,0.0038764586206525564,1.0,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4361-FEBGN,bundle_upsell,Price Sensitive,Hibernating,0.0036630122922360897,1.0,Bronze,5GB Monthly Bundle,USSD,0.7749999999999999,0.35,Minimal
+4282-MSACW,bundle_upsell,High Value Active,Champions,0.003511353163048625,1.0,Bronze,5GB Monthly Bundle,USSD,0.7749999999999999,0.35,Minimal
+8690-ZVLCL,bundle_upsell,Price Sensitive,Loyal Customers,0.0024049857165664434,1.0,Bronze,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3279-DYZQM,bundle_upsell,Price Sensitive,Champions,0.0024810030590742826,1.0,Bronze,5GB Monthly Bundle,USSD,0.7749999999999999,0.35,Minimal
+4079-VTGLK,bundle_upsell,Price Sensitive,Loyal Customers,0.0034383342135697603,1.0,Bronze,5GB Monthly Bundle,USSD,0.7749999999999999,0.35,Minimal
+5181-OABFK,bundle_upsell,Price Sensitive,Hibernating,0.0038564535789191723,1.0,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5309-TAIKL,bundle_upsell,Price Sensitive,Loyal Customers,0.022353481501340866,1.0,Bronze,1GB Daily Bundle,USSD,0.7749999999999999,0.35,Minimal
+2959-FENLU,bundle_upsell,Dormant,Hibernating,0.1236010417342186,1.0,Bronze,1GB Daily Bundle,SMS,0.7749999999999999,0.35,Minimal
+2257-BOVXD,bundle_upsell,Price Sensitive,Loyal Customers,0.012348003685474396,1.0,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4671-VJLCL,bundle_upsell,Price Sensitive,Loyal Customers,0.003191223833709955,0.88,Silver,5GB Monthly Bundle,USSD,0.766,0.35,Basic
+1017-FBQMM,bundle_upsell,Price Sensitive,Loyal Customers,0.007591001223772764,0.86,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.752,0.35,Basic
+2883-ILGWO,bundle_upsell,Price Sensitive,Loyal Customers,0.007730737794190645,0.86,Silver,5GB Monthly Bundle,SMS,0.752,0.35,Basic
+9912-OMZDS,bundle_upsell,Price Sensitive,At Risk,0.02881312184035778,0.81,Silver,1GB Daily Bundle,USSD,0.717,0.35,Basic
+3733-ZEECP,bundle_upsell,Price Sensitive,Loyal Customers,0.0025224173441529274,0.7,Gold,1GB Daily Bundle,PUSH_NOTIFICATION,0.7149999999999999,0.2,Standard
+0788-DXBFY,bundle_upsell,Price Sensitive,Champions,0.003066763747483492,0.805,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.7135,0.35,Basic
+6888-SBYAI,bundle_upsell,Price Sensitive,Loyal Customers,0.019426144659519196,0.805,Silver,5GB Monthly Bundle,USSD,0.7135,0.35,Basic
+7550-WIQVA,bundle_upsell,Price Sensitive,Champions,0.004241387825459242,0.795,Silver,5GB Monthly Bundle,PUSH_NOTIFICATION,0.7065,0.2,Basic
+6490-FGZAT,bundle_upsell,Price Sensitive,Loyal Customers,0.0031428239308297634,0.89,Bronze,5GB Monthly Bundle,USSD,0.698,0.35,Minimal
+8404-GFGCZ,bundle_upsell,Price Sensitive,Hibernating,0.022634699940681458,0.755,Silver,5GB Monthly Bundle,USSD,0.6785,0.2,Basic
+1045-LTCYT,bundle_upsell,Price Sensitive,Loyal Customers,0.003347270656377077,0.845,Bronze,1GB Daily Bundle,USSD,0.6664999999999999,0.35,Minimal
+9251-AWQGT,bundle_upsell,Price Sensitive,Loyal Customers,0.0044357250444591045,0.84,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.6629999999999999,0.35,Minimal
+2851-MMUTZ,bundle_upsell,Price Sensitive,Hibernating,0.004547780379652977,0.83,Bronze,5GB Monthly Bundle,USSD,0.6559999999999999,0.35,Minimal
+7860-KSUGX,bundle_upsell,Price Sensitive,Loyal Customers,0.0022535964380949736,0.805,Bronze,1GB Daily Bundle,PUSH_NOTIFICATION,0.6385,0.35,Minimal
+0804-YGEQV,bundle_upsell,Price Sensitive,Loyal Customers,0.003123396309092641,0.61,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.577,0.1,Basic
+5960-MVTUK,bundle_upsell,Price Sensitive,Loyal Customers,0.012704070657491684,0.705,Bronze,5GB Monthly Bundle,USSD,0.5684999999999999,0.2,Minimal
+8680-CGLTP,bundle_upsell,Price Sensitive,Champions,0.002688589971512556,0.555,Silver,1GB Daily Bundle,PUSH_NOTIFICATION,0.5385,0.1,Basic
+4016-BJKTZ,bundle_upsell,Price Sensitive,Loyal Customers,0.02042454108595848,0.565,Bronze,1GB Daily Bundle,USSD,0.4705,0.1,Minimal

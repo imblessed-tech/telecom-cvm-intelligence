@@ -1,0 +1,335 @@
+customer_id,campaign_name,segment_label,rfm_segment,churn_risk_score,propensity_score,clv_tier,recommended_offer,recommended_channel,priority_score,estimated_response_rate,retention_budget
+1657-DYMBM,voice_topup,Price Sensitive,Loyal Customers,0.0048225512728095055,1.0,Gold,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.9249999999999999,0.35,Standard
+4785-NKHCX,voice_topup,High Value Active,Champions,0.0037666410207748413,1.0,Gold,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.9249999999999999,0.35,Standard
+7359-WWYJV,voice_topup,Loyal But Declining,Loyal Customers,0.006988199427723885,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+7298-IZWLY,voice_topup,High Value Active,Champions,0.004007625859230757,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+1406-PUQVY,voice_topup,High Value Active,Champions,0.004914270248264074,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+9861-PDSZP,voice_topup,High Value Active,Champions,0.00270769651979208,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+1360-JYXKQ,voice_topup,Price Sensitive,Champions,0.002993428148329258,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+7858-GTZSP,voice_topup,High Value Active,Loyal Customers,0.007001500576734543,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+7742-MYPGI,voice_topup,High Value Active,Loyal Customers,0.0036088323686271906,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+7816-VGHTO,voice_topup,Price Sensitive,Loyal Customers,0.002187864389270544,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+6976-BWGLQ,voice_topup,Price Sensitive,Loyal Customers,0.007812535390257835,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+7629-WFGLW,voice_topup,High Value Active,Loyal Customers,0.0031106197275221348,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6729-GDNGC,voice_topup,Price Sensitive,Loyal Customers,0.007873897440731525,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+6979-TNDEU,voice_topup,High Value Active,Champions,0.0027593225240707397,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+7131-ZQZNK,voice_topup,High Value Active,Loyal Customers,0.0023702122271060944,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+7072-MBHEV,voice_topup,High Value Active,Loyal Customers,0.009637037292122841,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+6258-PVZWJ,voice_topup,High Value Active,Champions,0.0022272365167737007,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+1971-DTCZB,voice_topup,High Value Active,Champions,0.00391825195401907,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+1927-QEWMY,voice_topup,High Value Active,Champions,0.002880865940824151,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+1897-OKVMW,voice_topup,High Value Active,Champions,0.004259878769516945,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+9102-OXKFY,voice_topup,High Value Active,Loyal Customers,0.002486281329765916,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6614-VBEGU,voice_topup,High Value Active,Loyal Customers,0.002259061438962817,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+9076-AXYIK,voice_topup,Price Sensitive,Loyal Customers,0.0029240171425044537,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6112-KTHFQ,voice_topup,Price Sensitive,Loyal Customers,0.00427520927041769,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6916-HIJSE,voice_topup,High Value Active,Loyal Customers,0.00332517153583467,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6094-ZIVKX,voice_topup,High Value Active,Champions,0.002128013875335455,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+5701-GUXDC,voice_topup,High Value Active,Champions,0.002279921667650342,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+5641-DMBFJ,voice_topup,High Value Active,Loyal Customers,0.0022101588547229767,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+6388-TABGU,voice_topup,Price Sensitive,Loyal Customers,0.002298945328220725,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+5899-OUVKV,voice_topup,High Value Active,Champions,0.0023765098303556442,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+5176-OLSKT,voice_topup,Loyal But Declining,Champions,0.007470098324120045,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+5148-ORICT,voice_topup,High Value Active,Loyal Customers,0.0029789486434310675,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+5088-QZLRL,voice_topup,Rising Stars,Champions,0.009291300550103188,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+5074-FBGHB,voice_topup,Loyal But Declining,Loyal Customers,0.002666161861270666,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+2466-FCCPT,voice_topup,Rising Stars,Champions,0.001883322955109179,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+2346-LOCWC,voice_topup,High Value Active,Champions,0.002651961985975504,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+2279-AXJJK,voice_topup,High Value Active,Loyal Customers,0.0024330855812877417,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+3050-GBUSH,voice_topup,Price Sensitive,Loyal Customers,0.004238227382302284,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+2172-EJXVF,voice_topup,Loyal But Declining,Champions,0.058320604264736176,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4735-BJKOU,voice_topup,Rising Stars,Champions,0.002317504258826375,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4701-LKOZD,voice_topup,Price Sensitive,Champions,0.007485879585146904,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+8468-EHYJA,voice_topup,Loyal But Declining,Champions,0.006471560802310705,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+8374-UULRV,voice_topup,High Value Active,Loyal Customers,0.002159816212952137,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+8309-IEYJD,voice_topup,Price Sensitive,Loyal Customers,0.016000932082533836,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4431-EDMIQ,voice_topup,High Value Active,Loyal Customers,0.007544859312474728,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4343-EJVQB,voice_topup,High Value Active,Champions,0.0026205198373645544,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4990-ALDGW,voice_topup,Rising Stars,Loyal Customers,0.002429488580673933,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+4334-HOWRP,voice_topup,Price Sensitive,Champions,0.0025658535305410624,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4304-TSPVK,voice_topup,Loyal But Declining,Champions,0.004377651959657669,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+2680-XKKNJ,voice_topup,High Value Active,Loyal Customers,0.0032568443566560745,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+8785-CJSHH,voice_topup,High Value Active,Champions,0.032320886850357056,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+8707-RMEZH,voice_topup,High Value Active,Champions,0.002688104286789894,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+8659-HDIYE,voice_topup,High Value Active,Loyal Customers,0.005316896364092827,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+2511-MORQY,voice_topup,High Value Active,Champions,0.0016012700507417321,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4198-VFOEA,voice_topup,High Value Active,Champions,0.002380979713052511,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+3916-NRPAP,voice_topup,High Value Active,Champions,0.004244592972099781,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+4632-PAOYU,voice_topup,High Value Active,Champions,0.002193327760323882,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+3794-NFNCH,voice_topup,High Value Active,Loyal Customers,0.00278716953471303,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+3518-PZXZQ,voice_topup,High Value Active,Champions,0.004960350226610899,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+3399-BMLVW,voice_topup,High Value Active,Loyal Customers,0.0021010551135987043,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+3292-PBZEJ,voice_topup,High Value Active,Champions,0.004383691120892763,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+1085-LDWAM,voice_topup,Rising Stars,Champions,0.007696946617215872,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+0928-JMXNP,voice_topup,Price Sensitive,Loyal Customers,0.009989779442548752,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+0594-UFTUL,voice_topup,Rising Stars,Loyal Customers,0.0039564273320138454,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+0471-ARVMX,voice_topup,High Value Active,Loyal Customers,0.0036773437168449163,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+9972-NKTFD,voice_topup,High Value Active,Loyal Customers,0.002143912250176072,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+7722-VJRQD,voice_topup,Price Sensitive,Loyal Customers,0.002455154899507761,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+9220-CXRSC,voice_topup,Price Sensitive,Champions,0.010104537941515446,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.85,0.35,Basic
+0459-SPZHJ,voice_topup,Price Sensitive,Champions,0.0024024187587201595,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+9953-ZMKSM,voice_topup,Price Sensitive,Loyal Customers,0.002228498924523592,1.0,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.85,0.35,Basic
+8661-BOYNW,voice_topup,High Value Active,Loyal Customers,0.0024867637548595667,0.96,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.822,0.35,Basic
+7268-WNTCP,voice_topup,High Value Active,Champions,0.002488086698576808,0.935,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.8045,0.35,Basic
+2150-WLKUW,voice_topup,Price Sensitive,Loyal Customers,0.004361847881227732,0.93,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.801,0.35,Basic
+0943-ZQPXH,voice_topup,Price Sensitive,Loyal Customers,0.0025788857601583004,0.92,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.794,0.35,Basic
+9236-NDUCW,voice_topup,At Risk Heavyweights,Loyal Customers,0.012868647463619709,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9375-MHRRS,voice_topup,Rising Stars,Loyal Customers,0.036686018109321594,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9432-RUVSL,voice_topup,Loyal But Declining,Loyal Customers,0.29963138699531555,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9432-VOFYX,voice_topup,High Value Active,Champions,0.004030565265566111,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9888-ZCUMM,voice_topup,At Risk Heavyweights,Loyal Customers,0.007092166226357222,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0379-DJQHR,voice_topup,Loyal But Declining,Loyal Customers,0.0047964234836399555,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0326-VDYXE,voice_topup,Loyal But Declining,Loyal Customers,0.03292893245816231,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9142-XMYJH,voice_topup,High Value Active,Champions,0.0021242171060293913,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9560-BBZXK,voice_topup,Price Sensitive,Loyal Customers,0.0022540080826729536,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0230-WEQUW,voice_topup,Price Sensitive,Loyal Customers,0.03368884325027466,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0301-FIDRB,voice_topup,At Risk Heavyweights,Loyal Customers,0.05207633227109909,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0707-HOVVN,voice_topup,High Value Active,Loyal Customers,0.005611949134618044,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7730-CLDSV,voice_topup,Price Sensitive,Loyal Customers,0.013673410750925541,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0757-WCUUZ,voice_topup,Loyal But Declining,Loyal Customers,0.00952773168683052,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0824-VWDPO,voice_topup,Loyal But Declining,Loyal Customers,0.012643466703593731,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0848-SOMKO,voice_topup,Price Sensitive,Loyal Customers,0.00893560703843832,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7740-BTPUX,voice_topup,Loyal But Declining,Loyal Customers,0.19351735711097717,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0902-XKXPN,voice_topup,Rising Stars,Champions,0.015915874391794205,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0930-EHUZA,voice_topup,Loyal But Declining,Loyal Customers,0.008986854925751686,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2824-MYYBN,voice_topup,Price Sensitive,Loyal Customers,0.4848645031452179,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2920-RNCEZ,voice_topup,High Value Active,Loyal Customers,0.022880414500832558,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2972-YDYUW,voice_topup,Loyal But Declining,Loyal Customers,0.012266288511455059,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3301-LSLWQ,voice_topup,Rising Stars,Loyal Customers,0.04320191591978073,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3340-QBBFM,voice_topup,Rising Stars,Loyal Customers,0.01459522545337677,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7749999999999999,0.35,Minimal
+0732-OCQOC,voice_topup,Rising Stars,Loyal Customers,0.03723811358213425,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3422-GALYP,voice_topup,Rising Stars,Champions,0.2631620764732361,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3489-HHPFY,voice_topup,Rising Stars,Loyal Customers,0.0143419299274683,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3500-NSDOA,voice_topup,Loyal But Declining,Champions,0.005615638568997383,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3508-VLHCZ,voice_topup,Loyal But Declining,Loyal Customers,0.008996568620204926,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3620-EHIMZ,voice_topup,Rising Stars,Loyal Customers,0.020238516852259636,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3638-WEABW,voice_topup,Loyal But Declining,Loyal Customers,0.012351255863904953,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8559-WNQZS,voice_topup,Rising Stars,Loyal Customers,0.03809193894267082,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8591-NXRCV,voice_topup,Loyal But Declining,Champions,0.06130512058734894,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8617-ENBDS,voice_topup,Rising Stars,Champions,0.009734228253364563,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3813-DHBBB,voice_topup,At Risk Heavyweights,Loyal Customers,0.00940330233424902,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3935-TBRZZ,voice_topup,Rising Stars,Loyal Customers,0.0024263416416943073,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3973-SKMLN,voice_topup,Rising Stars,Loyal Customers,0.01151029672473669,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3976-NLDEZ,voice_topup,High Value Active,Champions,0.003945866134017706,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3995-WFCSM,voice_topup,Rising Stars,Loyal Customers,0.005928126163780689,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4006-HKYHO,voice_topup,Price Sensitive,Loyal Customers,0.007862035185098648,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3374-PZLXD,voice_topup,Price Sensitive,Loyal Customers,0.011409692466259003,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4023-RTIQM,voice_topup,At Risk Heavyweights,Loyal Customers,0.014862196519970894,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4186-ZBUEW,voice_topup,Price Sensitive,Loyal Customers,0.002729586558416486,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4282-MSACW,voice_topup,High Value Active,Champions,0.003511353163048625,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4227-OJHAL,voice_topup,Loyal But Declining,Champions,0.016102775931358337,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2495-KZNFB,voice_topup,High Value Active,Loyal Customers,0.006733269430696964,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2581-VKIRT,voice_topup,Price Sensitive,Champions,0.003906634170562029,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8631-WUXGY,voice_topup,Price Sensitive,Loyal Customers,0.3142319619655609,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7749999999999999,0.35,Minimal
+8690-ZVLCL,voice_topup,Price Sensitive,Loyal Customers,0.0024049857165664434,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8735-DCXNF,voice_topup,Price Sensitive,Loyal Customers,0.0131812933832407,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8873-TMKGR,voice_topup,High Value Active,Champions,0.002343340776860714,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8952-WCVCD,voice_topup,Loyal But Declining,Loyal Customers,0.023709192872047424,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2651-ZCBXV,voice_topup,Loyal But Declining,Champions,0.01673359051346779,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2665-NPTGL,voice_topup,Loyal But Declining,Loyal Customers,0.41063275933265686,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2682-KEVRP,voice_topup,Price Sensitive,Loyal Customers,0.015174448490142822,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4304-XUMGI,voice_topup,Loyal But Declining,Loyal Customers,0.008709005080163479,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4822-LPTYJ,voice_topup,Loyal But Declining,Loyal Customers,0.00864359363913536,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4835-YSJMR,voice_topup,Rising Stars,Champions,0.007730174344033003,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4879-GZLFH,voice_topup,Loyal But Declining,Loyal Customers,0.03389102965593338,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4937-QPZPO,voice_topup,Loyal But Declining,Loyal Customers,0.0028701373375952244,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4423-JWZJN,voice_topup,Loyal But Declining,Loyal Customers,0.02385622262954712,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4458-KVRBJ,voice_topup,Rising Stars,Champions,0.0027740427758544683,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4459-BBGHE,voice_topup,At Risk Heavyweights,Loyal Customers,0.0022847196087241173,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4468-YDOVK,voice_topup,Rising Stars,Loyal Customers,0.012510218657553196,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4480-MBMLB,voice_topup,Loyal But Declining,Loyal Customers,0.014800550416111946,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4480-QQRHC,voice_topup,Price Sensitive,Champions,0.003468532580882311,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4508-OEBEY,voice_topup,Loyal But Declining,Loyal Customers,0.0042405761778354645,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4518-FZBSX,voice_topup,Rising Stars,Loyal Customers,0.004832133185118437,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4568-TTZRT,voice_topup,High Value Active,Champions,0.0024482673034071922,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8146-QQKZH,voice_topup,High Value Active,Champions,0.004954333417117596,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8164-OCKUJ,voice_topup,Rising Stars,Loyal Customers,0.0033941594883799553,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9251-AWQGT,voice_topup,Price Sensitive,Loyal Customers,0.0044357250444591045,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9371-BITHB,voice_topup,Rising Stars,Loyal Customers,0.0067687188275158405,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8184-WMOFI,voice_topup,Loyal But Declining,Loyal Customers,0.013396630063652992,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8165-ZJRNM,voice_topup,Rising Stars,Loyal Customers,0.002315061166882515,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8409-WQJUX,voice_topup,At Risk Heavyweights,Champions,0.0037036705762147903,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+8224-UAXBZ,voice_topup,At Risk Heavyweights,Champions,0.0687124952673912,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1228-ZLNBX,voice_topup,Rising Stars,Champions,0.014333809725940228,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1335-HQMKX,voice_topup,Price Sensitive,Loyal Customers,0.027024034410715103,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3005-TYFRD,voice_topup,Loyal But Declining,Loyal Customers,0.004254320170730352,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8383-SGHJU,voice_topup,Rising Stars,Loyal Customers,0.008610006421804428,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+3181-VTHOE,voice_topup,Price Sensitive,Loyal Customers,0.003370238235220313,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3279-DYZQM,voice_topup,Price Sensitive,Champions,0.0024810030590742826,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2208-NKVVH,voice_topup,Price Sensitive,Loyal Customers,0.0023413952440023422,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2233-FAGXV,voice_topup,High Value Active,Loyal Customers,0.003595259040594101,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2272-UOINI,voice_topup,High Value Active,Loyal Customers,0.008681179955601692,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2277-DJJDL,voice_topup,High Value Active,Loyal Customers,0.004041277337819338,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2466-NEJOJ,voice_topup,High Value Active,Champions,0.0025671375915408134,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4644-OBGFZ,voice_topup,Price Sensitive,Loyal Customers,0.0028058630414307117,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+4801-KFYKL,voice_topup,Rising Stars,Loyal Customers,0.002148898085579276,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5003-XZWWO,voice_topup,Loyal But Declining,Loyal Customers,0.03540072217583656,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7749999999999999,0.35,Minimal
+5057-RKGLH,voice_topup,Rising Stars,Loyal Customers,0.024365685880184174,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5071-FBJFS,voice_topup,High Value Active,Loyal Customers,0.002691735979169607,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5168-MSWXT,voice_topup,Price Sensitive,Loyal Customers,0.3172357976436615,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5214-NLTIT,voice_topup,Loyal But Declining,Loyal Customers,0.013040419667959213,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5309-TAIKL,voice_topup,Price Sensitive,Loyal Customers,0.022353481501340866,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5360-LJCNJ,voice_topup,Price Sensitive,Loyal Customers,0.013921290636062622,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5446-DKWYW,voice_topup,Loyal But Declining,Loyal Customers,0.007179630920290947,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5457-COLHT,voice_topup,Price Sensitive,Champions,0.007055946625769138,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5482-VXSXJ,voice_topup,Price Sensitive,Loyal Customers,0.005771213211119175,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8099-MZPUJ,voice_topup,Loyal But Declining,Loyal Customers,0.02918298728764057,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+8144-DGHXP,voice_topup,Loyal But Declining,Loyal Customers,0.013870756141841412,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6427-FEFIG,voice_topup,Loyal But Declining,Loyal Customers,0.0025913873687386513,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6440-DKQGE,voice_topup,Loyal But Declining,Loyal Customers,0.024835607036948204,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+3148-AOIQT,voice_topup,Rising Stars,Loyal Customers,0.036746419966220856,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5515-RUGKN,voice_topup,Rising Stars,Loyal Customers,0.36681240797042847,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7749999999999999,0.35,Minimal
+5599-HVLTW,voice_topup,Rising Stars,Loyal Customers,0.06232301518321037,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5666-CYCYZ,voice_topup,Rising Stars,Champions,0.01617618277668953,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5619-PTMIK,voice_topup,High Value Active,Loyal Customers,0.003058193251490593,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5701-SVCWR,voice_topup,Rising Stars,Champions,0.006403220351785421,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5707-ZMDJP,voice_topup,Price Sensitive,Champions,0.010061231441795826,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5820-PTRYM,voice_topup,Loyal But Declining,Loyal Customers,0.008921698667109013,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5696-JVVQY,voice_topup,Loyal But Declining,Loyal Customers,0.02883296273648739,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5960-MVTUK,voice_topup,Price Sensitive,Loyal Customers,0.012704070657491684,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6821-JPCDC,voice_topup,High Value Active,Loyal Customers,0.0023374210577458143,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6828-HMKWP,voice_topup,Rising Stars,Loyal Customers,0.005261171609163284,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6848-HJTXY,voice_topup,Rising Stars,Loyal Customers,0.0023611921351403,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6030-REHUX,voice_topup,Loyal But Declining,Loyal Customers,0.009660006500780582,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6088-BXMRG,voice_topup,Loyal But Declining,Loyal Customers,0.23250645399093628,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6128-AQBMT,voice_topup,At Risk Heavyweights,Champions,0.00412550987675786,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+5915-ANOEI,voice_topup,Loyal But Declining,Champions,0.009164957329630852,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6171-ZTVYB,voice_topup,Loyal But Declining,Loyal Customers,0.038531843572854996,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6218-KNUBD,voice_topup,Rising Stars,Loyal Customers,0.06865190714597702,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6242-SGYTS,voice_topup,High Value Active,Loyal Customers,0.003163722576573491,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6242-MBHPK,voice_topup,High Value Active,Champions,0.003629052545875311,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+2632-IVXVF,voice_topup,Loyal But Declining,Loyal Customers,0.009846039116382599,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1732-FEKLD,voice_topup,Loyal But Declining,Loyal Customers,0.11303108185529709,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1834-ABKHQ,voice_topup,Rising Stars,Loyal Customers,0.022837065160274506,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9137-NOQKA,voice_topup,Price Sensitive,Champions,0.008479055017232895,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1849-RJYIG,voice_topup,Rising Stars,Loyal Customers,0.018063697963953018,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1910-FMXJM,voice_topup,Rising Stars,Loyal Customers,0.0052352175116539,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1952-DVVSW,voice_topup,Rising Stars,Champions,0.021194469183683395,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1919-RTPQD,voice_topup,Rising Stars,Loyal Customers,0.3292503356933594,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2123-AGEEN,voice_topup,Rising Stars,Champions,0.062496937811374664,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+2146-EGVDT,voice_topup,Rising Stars,Loyal Customers,0.004020430613309145,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6339-TBELP,voice_topup,High Value Active,Loyal Customers,0.0024330229498445988,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+4781-ZXYGU,voice_topup,Rising Stars,Loyal Customers,0.00636717164888978,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6380-ARCEH,voice_topup,Rising Stars,Loyal Customers,0.01595187559723854,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7033-CLAMM,voice_topup,Price Sensitive,Champions,0.007768827956169844,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6479-OAUSD,voice_topup,Rising Stars,Loyal Customers,0.004649779759347439,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7061-OVMIM,voice_topup,Rising Stars,Loyal Customers,0.017793893814086914,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6490-FGZAT,voice_topup,Price Sensitive,Loyal Customers,0.0031428239308297634,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6522-OIQSX,voice_topup,At Risk Heavyweights,Loyal Customers,0.0206310972571373,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6551-VLJMV,voice_topup,Rising Stars,Loyal Customers,0.0046075619757175446,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6481-LXPWL,voice_topup,At Risk Heavyweights,Loyal Customers,0.00980909913778305,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6585-WCEWR,voice_topup,Rising Stars,Loyal Customers,0.00477147800847888,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6614-YOLAC,voice_topup,At Risk Heavyweights,Loyal Customers,0.012327161617577076,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6625-FLENO,voice_topup,Rising Stars,Loyal Customers,0.002927931724116206,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6732-FZUGP,voice_topup,Loyal But Declining,Loyal Customers,0.019070563837885857,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7396-VJUZB,voice_topup,Rising Stars,Loyal Customers,0.08382996171712875,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7421-ZLUPA,voice_topup,Price Sensitive,Loyal Customers,0.0023818917106837034,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7470-DYNOE,voice_topup,Rising Stars,Champions,0.026524342596530914,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6584-VQMYT,voice_topup,Rising Stars,Loyal Customers,0.012951774522662163,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7639-LIAYI,voice_topup,Price Sensitive,Loyal Customers,0.031713951379060745,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6922-NCEDI,voice_topup,Rising Stars,Loyal Customers,0.0025604069232940674,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6928-ONTRW,voice_topup,Rising Stars,Loyal Customers,0.01563997007906437,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6950-TWMYB,voice_topup,High Value Active,Champions,0.0023073721677064896,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+6952-OMNWB,voice_topup,Loyal But Declining,Loyal Customers,0.005331494379788637,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6963-KQYQB,voice_topup,Rising Stars,Loyal Customers,0.00784377846866846,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+6988-CJEYV,voice_topup,Price Sensitive,Loyal Customers,0.00377384084276855,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7026-YMSBE,voice_topup,Rising Stars,Loyal Customers,0.0037998072803020477,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7030-NJVDP,voice_topup,Loyal But Declining,Loyal Customers,0.0791148766875267,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7860-KSUGX,voice_topup,Price Sensitive,Loyal Customers,0.0022535964380949736,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7898-PDWQE,voice_topup,Loyal But Declining,Loyal Customers,0.024579089134931564,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7929-SKFGK,voice_topup,Loyal But Declining,Loyal Customers,0.013080285862088203,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7967-HYCDE,voice_topup,Rising Stars,Loyal Customers,0.12780921161174774,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7995-ZHHNZ,voice_topup,Rising Stars,Loyal Customers,0.009826835244894028,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7159-NOKYQ,voice_topup,Loyal But Declining,Loyal Customers,0.003475621808320284,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7577-SWIFR,voice_topup,Rising Stars,Loyal Customers,0.2165812849998474,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7169-YWAMK,voice_topup,Loyal But Declining,Champions,0.007579737342894077,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7176-WIONM,voice_topup,Price Sensitive,Loyal Customers,0.14500944316387177,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7206-PQBBZ,voice_topup,Rising Stars,Loyal Customers,0.06680724024772644,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+0082-OQIQY,voice_topup,High Value Active,Loyal Customers,0.0036886432208120823,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0071-NDAFP,voice_topup,Rising Stars,Loyal Customers,0.007867395877838135,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0002-ORFBO,voice_topup,High Value Active,Champions,0.00441706320270896,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1478-VPOAD,voice_topup,Rising Stars,Loyal Customers,0.015049801208078861,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1498-NHTLT,voice_topup,Loyal But Declining,Loyal Customers,0.05686252936720848,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1580-BMCMR,voice_topup,Rising Stars,Champions,0.013464076444506645,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1635-NZATJ,voice_topup,Rising Stars,Loyal Customers,0.010879150591790676,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+1641-RQDAY,voice_topup,Loyal But Declining,Loyal Customers,0.23827069997787476,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1696-MZVAU,voice_topup,At Risk Heavyweights,Loyal Customers,0.011224649846553802,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9030-QGZNL,voice_topup,Rising Stars,Loyal Customers,0.012590911239385605,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9031-ZVQPT,voice_topup,Loyal But Declining,Loyal Customers,0.006100045051425695,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9052-VKDUW,voice_topup,High Value Active,Loyal Customers,0.0027723100502043962,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9066-QRSDU,voice_topup,Rising Stars,Loyal Customers,0.08184859156608582,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+7343-EOBEU,voice_topup,Rising Stars,Champions,0.08669765293598175,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9992-UJOEL,voice_topup,Rising Stars,Champions,0.012644805945456028,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9619-GSATL,voice_topup,Price Sensitive,Loyal Customers,0.004255387000739574,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9629-NHXFW,voice_topup,Price Sensitive,Champions,0.0044684396125376225,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9739-JLPQJ,voice_topup,Loyal But Declining,Loyal Customers,0.052180640399456024,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9766-HGEDE,voice_topup,Rising Stars,Loyal Customers,0.0024108283687382936,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9770-KXGQU,voice_topup,Loyal But Declining,Champions,0.007388885598629713,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9788-HNGUT,voice_topup,Loyal But Declining,Loyal Customers,0.0032320376485586166,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9860-LISIZ,voice_topup,Price Sensitive,Loyal Customers,0.0038764586206525564,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+0423-UDIJQ,voice_topup,Rising Stars,Loyal Customers,0.04583808034658432,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7669-LCRSD,voice_topup,Price Sensitive,Loyal Customers,0.32028159499168396,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7682-AZNDK,voice_topup,High Value Active,Loyal Customers,0.0024003044236451387,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+7691-KGKGP,voice_topup,Rising Stars,Loyal Customers,0.08485230058431625,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+1162-ECVII,voice_topup,Price Sensitive,Loyal Customers,0.0404469259083271,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7749999999999999,0.35,Minimal
+9546-KDTRB,voice_topup,Rising Stars,Loyal Customers,0.005515715107321739,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+9554-DFKIC,voice_topup,Rising Stars,Champions,0.012856307439506054,1.0,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7749999999999999,0.35,Minimal
+5614-DNZCE,voice_topup,High Value Active,Loyal Customers,0.0028751473873853683,0.89,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.773,0.35,Basic
+8049-WJCLQ,voice_topup,Rising Stars,Loyal Customers,0.10205837339162827,0.995,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7715,0.35,Minimal
+8294-UIMBA,voice_topup,Loyal But Declining,Loyal Customers,0.083055280148983,0.995,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7715,0.35,Minimal
+2750-BJLSB,voice_topup,Loyal But Declining,Loyal Customers,0.007038322277367115,0.995,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7715,0.35,Minimal
+3544-FBCAS,voice_topup,Loyal But Declining,Loyal Customers,0.007249755784869194,0.995,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7715,0.35,Minimal
+5656-JAMLX,voice_topup,Rising Stars,Loyal Customers,0.0102598387748003,0.99,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7679999999999999,0.35,Minimal
+7711-YIJWC,voice_topup,Loyal But Declining,Loyal Customers,0.003405645489692688,0.99,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7679999999999999,0.35,Minimal
+8807-OPMBM,voice_topup,Rising Stars,Champions,0.0024607342202216387,0.99,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7679999999999999,0.35,Minimal
+4355-CVPVS,voice_topup,High Value Active,Champions,0.002547798678278923,0.985,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7645,0.35,Minimal
+9643-AVVWI,voice_topup,High Value Active,Loyal Customers,0.0038858861662447453,0.985,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7645,0.35,Minimal
+4685-ERGHK,voice_topup,Loyal But Declining,Loyal Customers,0.006381919141858816,0.985,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7645,0.35,Minimal
+3197-ARFOY,voice_topup,Loyal But Declining,Loyal Customers,0.008882774971425533,0.985,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7645,0.35,Minimal
+4445-KWOKW,voice_topup,Rising Stars,Loyal Customers,0.018784241750836372,0.985,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7645,0.35,Minimal
+7083-MIOPC,voice_topup,Price Sensitive,Loyal Customers,0.013527325354516506,0.98,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7609999999999999,0.35,Minimal
+1269-FOYWN,voice_topup,Rising Stars,Loyal Customers,0.042070891708135605,0.98,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7609999999999999,0.35,Minimal
+9626-WEQRM,voice_topup,At Risk Heavyweights,Loyal Customers,0.013797355815768242,0.98,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7609999999999999,0.35,Minimal
+6250-CGGUN,voice_topup,Loyal But Declining,Loyal Customers,0.06146298721432686,0.98,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7609999999999999,0.35,Minimal
+0635-WKOLD,voice_topup,Price Sensitive,Champions,0.003595559624955058,0.87,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.759,0.35,Basic
+0902-RFHOF,voice_topup,Rising Stars,Loyal Customers,0.01155807264149189,0.975,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7575,0.35,Minimal
+8903-WMRNW,voice_topup,Loyal But Declining,Loyal Customers,0.10309386998414993,0.975,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7575,0.35,Minimal
+4884-LEVMQ,voice_topup,Price Sensitive,Loyal Customers,0.012710662558674812,0.975,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7575,0.35,Minimal
+3642-GKTCT,voice_topup,Loyal But Declining,Loyal Customers,0.05804264545440674,0.97,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7539999999999999,0.35,Minimal
+1282-IHQAC,voice_topup,At Risk Heavyweights,Loyal Customers,0.00464664027094841,0.97,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7539999999999999,0.35,Minimal
+5019-GQVCR,voice_topup,Rising Stars,Loyal Customers,0.0027469389606267214,0.86,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.752,0.35,Basic
+7969-FFOWG,voice_topup,Rising Stars,Loyal Customers,0.024381626397371292,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7505,0.35,Minimal
+9800-OUIGR,voice_topup,Rising Stars,Loyal Customers,0.010528549551963806,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7505,0.35,Minimal
+9588-YRFHY,voice_topup,Price Sensitive,Champions,0.0065559083595871925,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7505,0.35,Minimal
+1741-WTPON,voice_topup,Price Sensitive,Loyal Customers,0.0024058520793914795,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7505,0.35,Minimal
+1525-LNLOJ,voice_topup,Price Sensitive,Loyal Customers,0.012098693288862705,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7505,0.35,Minimal
+2801-NISEI,voice_topup,Price Sensitive,Loyal Customers,0.0027249876875430346,0.965,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7505,0.35,Minimal
+4646-QZXTF,voice_topup,High Value Active,Loyal Customers,0.017948567867279053,0.855,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7484999999999999,0.35,Basic
+2925-MXLSX,voice_topup,Price Sensitive,Loyal Customers,0.00656127417460084,0.96,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7469999999999999,0.35,Minimal
+8628-MFKAX,voice_topup,Loyal But Declining,Champions,0.007503220345824957,0.96,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7469999999999999,0.35,Minimal
+2133-TSRRM,voice_topup,Loyal But Declining,Loyal Customers,0.008981217630207539,0.96,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7469999999999999,0.35,Minimal
+4079-VTGLK,voice_topup,Price Sensitive,Loyal Customers,0.0034383342135697603,0.955,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7434999999999999,0.35,Minimal
+7011-CVEUC,voice_topup,Price Sensitive,Champions,0.03019162453711033,0.955,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7434999999999999,0.35,Minimal
+2294-DMMUS,voice_topup,Loyal But Declining,Loyal Customers,0.03242136910557747,0.955,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7434999999999999,0.35,Minimal
+4998-IKFSE,voice_topup,Loyal But Declining,Loyal Customers,0.24865351617336273,0.95,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7399999999999999,0.35,Minimal
+2460-NGXBJ,voice_topup,Price Sensitive,Loyal Customers,0.004279283341020346,0.84,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.738,0.35,Basic
+9112-WSNPU,voice_topup,Rising Stars,Champions,0.00952338520437479,0.945,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,SMS,0.7364999999999999,0.35,Minimal
+0017-IUDMW,voice_topup,Loyal But Declining,Champions,0.002258831402286887,0.94,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7329999999999999,0.35,Minimal
+7469-LKBCI,voice_topup,Rising Stars,Loyal Customers,0.009767305105924606,0.94,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7329999999999999,0.35,Minimal
+4703-MQYKT,voice_topup,Rising Stars,Loyal Customers,0.040960077196359634,0.94,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7329999999999999,0.35,Minimal
+8490-BXHEO,voice_topup,Price Sensitive,Loyal Customers,0.031907618045806885,0.935,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7294999999999999,0.35,Minimal
+5569-IDSEY,voice_topup,Loyal But Declining,Loyal Customers,0.39761635661125183,0.93,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.726,0.35,Minimal
+4526-ZJJTM,voice_topup,Price Sensitive,Champions,0.014143754728138447,0.82,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.724,0.35,Basic
+4367-NHWMM,voice_topup,At Risk Heavyweights,Loyal Customers,0.008098838850855827,0.925,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.7224999999999999,0.35,Minimal
+8207-VVMYB,voice_topup,Rising Stars,Loyal Customers,0.0026715954300016165,0.815,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.7204999999999999,0.35,Basic
+0409-WTMPL,voice_topup,Loyal But Declining,Loyal Customers,0.010790744796395302,0.92,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.719,0.35,Minimal
+8305-VHZBZ,voice_topup,Price Sensitive,Loyal Customers,0.3208687901496887,0.91,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.712,0.35,Minimal
+3452-FLHYD,voice_topup,Rising Stars,Loyal Customers,0.024478726089000702,0.885,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.6944999999999999,0.35,Minimal
+5356-CSVSQ,voice_topup,Rising Stars,Loyal Customers,0.04312511906027794,0.88,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.691,0.35,Minimal
+2305-MRGLV,voice_topup,Rising Stars,Loyal Customers,0.005976088345050812,0.745,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.6715,0.2,Basic
+1855-CFULU,voice_topup,Rising Stars,Champions,0.005571657791733742,0.745,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.6715,0.2,Basic
+1506-YJTYT,voice_topup,Loyal But Declining,Loyal Customers,0.0449044443666935,0.84,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.6629999999999999,0.35,Minimal
+0027-KWYKW,voice_topup,High Value Active,Champions,0.003870889311656356,0.835,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.6594999999999999,0.35,Minimal
+7145-FEJWU,voice_topup,High Value Active,Champions,0.002714376198127866,0.72,Silver,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.654,0.2,Basic
+1304-BCCFO,voice_topup,Rising Stars,Loyal Customers,0.00700578885152936,0.76,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,PUSH_NOTIFICATION,0.6069999999999999,0.2,Minimal
+2580-ASVVY,voice_topup,At Risk Heavyweights,Loyal Customers,0.05918847396969795,0.705,Bronze,Voice Top-up: Get ₦100 bonus on ₦500 recharge,USSD,0.5684999999999999,0.2,Minimal

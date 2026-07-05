@@ -1,0 +1,32 @@
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Notebooks
+notebooks/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+training.log
+
+# Large datasets, processing outputs, and campaigns - Allow small csv for demostration
+#data/processed/
+#data/campaigns/
+#reports/
+
+# Serialised models
+models/
