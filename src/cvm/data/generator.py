@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 # Constants
 RECHARGE_AMOUNTS = [100, 200, 500, 1000, 2000, 5000]  # Naira
 CHANNELS = ["USSD", "APP", "AGENT", "WEB"]
-CHANNEL_WEIGHTS = [0.5, 0.3, 0.15, 0.05]  # USSD dominates in Nigeria
+CHANNEL_WEIGHTS = [0.5, 0.3, 0.15, 0.05]  # USSD dominates in emerging markets
 EVENT_TYPES = ["RECHARGE", "DATA_SESSION", "CALL", "SMS"]
 EVENT_WEIGHTS = [0.25, 0.35, 0.30, 0.10]
 OFFERS = ["DATA_BUNDLE_1GB", "DATA_BUNDLE_5GB", "VOICE_TOPUP_100",

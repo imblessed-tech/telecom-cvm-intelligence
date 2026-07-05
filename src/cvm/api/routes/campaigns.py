@@ -1,6 +1,6 @@
 import json
 import logging
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Literal
 from fastapi import APIRouter, Depends, HTTPException, Query
 from fastapi.responses import JSONResponse
 
@@ -13,7 +13,7 @@ router = APIRouter(prefix="/api/campaigns", tags=["Campaigns"])
 
 @router.get("/opportunity-base")
 def get_opportunity_base(
-    campaign_type: str = Query(..., description="One of: churn_retention, bundle_upsell, voice_topup, reactivation, loyalty_reward"),
+    campaign_type: Literal["churn_retention", "bundle_upsell", "voice_topup", "reactivation", "loyalty_reward"] = Query(..., description="Campaign objective type"),
     max_size: int = Query(1000, ge=1, le=10000),
     registry: CVMModelRegistry = Depends(get_registry)
 ):

@@ -62,7 +62,7 @@ app.include_router(health_router)
 def read_root():
     """Root landing endpoint providing service summary and developer documentation links."""
     return {
-        "message": "Welcome to MTN Nigeria Customer Value Management (CVM) Intelligence Platform API",
+        "message": "Welcome to the Telecom Customer Value Management (CVM) Platform API",
         "documentation": "/docs",
         "status": "active"
     }

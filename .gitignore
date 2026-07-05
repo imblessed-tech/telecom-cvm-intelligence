@@ -28,5 +28,5 @@ training.log
 #data/campaigns/
 #reports/
 
-# Serialised models
-/models/
+# Serialised models - Allow small models for demostration
+#/models/
