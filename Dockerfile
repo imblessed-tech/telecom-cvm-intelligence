@@ -12,11 +12,16 @@ RUN apt-get update && apt-get install -y \
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy application source code and artifacts
+# Copy application source code and raw data
 COPY src/ ./src/
-COPY models/ ./models/
-COPY data/processed/ ./data/processed/
-COPY data/campaigns/ ./data/campaigns/
+COPY data/raw/ ./data/raw/
+COPY train.py .
+
+# Create directory structures
+RUN mkdir -p models data/processed data/campaigns
+
+# Train all models and generate the reports during build time
+RUN python train.py
 
 EXPOSE 8000
 

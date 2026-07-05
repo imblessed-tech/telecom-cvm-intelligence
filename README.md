@@ -420,6 +420,8 @@ After running `train.py`, open the generated HTML report in any browser:
 start reports/dashboard/cvm_dashboard.html
 ```
 
+![CVM Intelligence Dashboard](docs/cvm_dashboard_screenshot.png)
+
 The report contains the following visual sections:
 * **Key KPI Metrics:** Total customers, high-risk counts, average ARPU.
 * **Churn Analysis:** Histogram and SHAP summary plots.
