@@ -29,4 +29,4 @@ training.log
 #reports/
 
 # Serialised models
-models/
+/models/
